@@ -46,7 +46,7 @@
     </div>
 
     <div class="col-md-4">
-    <a href="../materias/fisica/fisica.php" class="text-decoration-none">
+    <a href="materias/fisica/fisica.php" class="text-decoration-none">
       <div class="card shadow h-100 text-center card-red">
         <div class="card-body d-flex align-items-center justify-content-center">
           <h4 class="card-title m-0">Física</h4>

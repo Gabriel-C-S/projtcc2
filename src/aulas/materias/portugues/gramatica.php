@@ -1,1 +1,1 @@
-<?php include ("../../../headerAluno.php"); ?>
+<?php include ("../headerAluno.php"); ?>

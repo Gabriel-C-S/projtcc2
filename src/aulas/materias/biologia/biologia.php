@@ -1,4 +1,4 @@
-<?php include ("../../../headerAluno.php"); ?>
+<?php include ("../headerAluno.php"); ?>
 
 
 <div class="container py-5">
