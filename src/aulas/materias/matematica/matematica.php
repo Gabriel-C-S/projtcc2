@@ -1,4 +1,4 @@
-<?php include ("../headerAluno.php"); ?>
+<?php include ("../../../headerAluno.php"); ?>
 
 <div class="container py-5">
   <h1 class="text-center mb-4">Biologia - ENEM</h1>

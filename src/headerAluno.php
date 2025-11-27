@@ -33,8 +33,8 @@
                     <img src="../../cadastro/img/cadastro.png"alt="Logo" width="80" height="80" class="rounded-circle mb-2" alt="Foto do usuário">
                     <p class="fw-bold mb-0">Usuário</p>
                 </div>
+                
                 <div class="list-group list-group-flush">
-                    
                     <a href="../aulas/paginaAulas.php" class="list-group-item list-group-item-action py-3">
                         <i class="bi bi-book me-2"></i> Aulas
                     </a>
@@ -44,7 +44,7 @@
                     <a href="#" class="list-group-item list-group-item-action py-3">
                         <i class="bi bi-robot me-2"></i> Heleno
                     </a>
-                    <a href="#" class="list-group-item list-group-item-action py-3">
+                    <a href="../pomodoro/pomodoro.php" class="list-group-item list-group-item-action py-3">
                         <i class="bi bi-clock me-2"></i> Pomodoro
                     </a>
                 </div>

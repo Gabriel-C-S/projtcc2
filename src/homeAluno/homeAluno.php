@@ -6,12 +6,12 @@
                     
                     <div class="col">
                         <div class="card h-100 shadow-sm border-0 rounded-4 p-3 text-center">
-                                <div class="card-body">
-                                    <i class="bi bi-book fs-1 mb-3 text-success"></i>
-                                    <h5 class="card-title fw-semibold">Aulas</h5>
-                                    <p class="card-text text-muted">Acesse aulas e materiais organizados por disciplina e tema.</p>
-                                    <a href="../aulas/paginaAulas.php" class="btn btn-success rounded-pill mt-3 px-4">Explorar</a>
-                                </div>              
+                            <div class="card-body">
+                                <i class="bi bi-book fs-1 mb-3 text-success"></i>
+                                <h5 class="card-title fw-semibold">Aulas</h5>
+                                <p class="card-text text-muted">Acesse aulas e materiais organizados por disciplina e tema.</p>
+                                <a href="../aulas/paginaAulas.php" class="btn btn-success rounded-pill mt-3 px-4">Explorar</a>
+                            </div>
                         </div>
                     </div>
                     <div class="col">

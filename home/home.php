@@ -33,20 +33,15 @@
   </section>
 
 
-  
- <section class="bg-light-blue text-light text-center py-5">
+
+<section class="bg-light-blue text-light text-center py-5">
     <div class="container text-center">
       <h2 class="fw-bold mb-5">O que a plataforma oferece: </h2>
-      <div class="row g-4">
+      <div class="row g-4 justify-content-center">
         <div class="col-md-3">
-          <i class="bi bi-book fs-1 text-primary" color="white"></i>
+          <i class="bi bi-book fs-1 text-primary"></i>
           <h5 style="font-size: 25px" class="mt-3">Aulas gratuitas</h5>
           <p style="font-size: 20px">Playlists de aulas separadas por matérias e por assuntos.</p>
-        </div>
-        <div class="col-md-3">
-          <i class="bi bi-pencil-square fs-1 text-primary"></i>
-          <h5 style="font-size: 25px" class="mt-3">FlashCards</h5>
-          <p style="font-size: 20px">Um método de estudo com enfoque na memorização.</p>
         </div>
         <div class="col-md-3">
           <i class="bi bi-check2-circle fs-1 text-primary"></i>
@@ -62,6 +57,7 @@
       </div>
     </div>
   </section>
+
 
   <section class="py-5">
     <div class="container text-center">

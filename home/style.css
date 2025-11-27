@@ -14,7 +14,9 @@ h3{
 .btn-dark {
     background-color: #0b1d51;
 }
-
+.cards{
+ padding-left: 100px;
+}
 .btn-dark:hover {
     background-color: #000000;
 }
