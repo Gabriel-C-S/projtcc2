@@ -30,7 +30,7 @@
                                 <i class="bi bi-robot fs-1 mb-3 text-secondary"></i>
                                 <h5 class="card-title fw-semibold">Heleno</h5>
                                 <p class="card-text text-muted">Tire suas dúvidas e aprofunde-se nos estudos com nossa IA.</p>
-                                <a href="#" class="btn btn-secondary rounded-pill mt-3 px-4">Conversar</a>
+                                <a href="../heleno/heleno.php" class="btn btn-secondary rounded-pill mt-3 px-4">Conversar</a>
                             </div>
                         </div>
                     </div>
@@ -40,7 +40,7 @@
                                 <i class="bi bi-clock fs-1 mb-3 text-danger"></i>
                                 <h5 class="card-title fw-semibold">Pomodoro</h5>
                                 <p class="card-text text-muted">Gerencie seu tempo de estudo e pausas para máxima produtividade.</p>
-                                <a href="#" class="btn btn-danger rounded-pill mt-3 px-4">Iniciar</a>
+                                <a href="../pomodoro/pomodoro.php" class="btn btn-danger rounded-pill mt-3 px-4">Iniciar</a>
                             </div>
                         </div>
                     </div>

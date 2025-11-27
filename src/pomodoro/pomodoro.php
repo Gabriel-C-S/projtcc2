@@ -47,7 +47,7 @@
 <div class="pomodoro-page">
   <div class="timer-box">
 
-    <img src="iconPomodoro.png" alt="Macaco fofo" class="monkey-img" />
+    <img src="../../img/iconPomodoro.png" alt="Macaco fofo" class="monkey-img" />
 
     <h1>Vamos Focar!</h1>
 
